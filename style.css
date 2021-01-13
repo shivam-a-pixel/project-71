@@ -2,6 +2,14 @@
 {
 	background-color: aqua;
 }
+#allu img
+{
+	height:300px;
+}
+iframe
+{
+	float:left;
+}
 .list{
    font-size: 30;
 	padding-left: 10px;
